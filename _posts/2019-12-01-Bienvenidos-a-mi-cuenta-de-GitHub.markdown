@@ -8,3 +8,6 @@ tags: [Blog, Mountains]
 author: Rafael Díaz García
 ---
 Esta es la introducción a mi cuenta de GitHub RadigarHub.
+
+Aquí estoy añadiendo una nueva imagen:
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
